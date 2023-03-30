@@ -1,8 +1,9 @@
 # Jornada Full Stack - Criando um clone do TikTok
 
 ## 📝 Link
-- [Webinar da EBAC] (https://www.ebaconline.com.br/webinars/prog-jornadafull-2023-03-28-29-30-31-04-01-02-03-04
-)
+- [Webinar da EBAC](https://ebaconline.com.br/webinars/prog-jornadafull-2023-03-28-29-30-31-04-01-02-03-04)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
