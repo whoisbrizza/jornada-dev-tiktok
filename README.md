@@ -1,6 +1,6 @@
 # Jornada Full Stack - Criando um clone do TikTok
 
-Webinar da EBAC:
+Webinar da EBAC - Link:
 ebaconline.com.br/webinars/prog-jornadafull-2023-03-28-29-30-31-04-01-02-03-04
 
 
