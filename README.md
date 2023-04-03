@@ -1,6 +1,6 @@
 # Jornada Full Stack - Criando um clone do TikTok
 
-### Este projeto foi desenvolvido com as tecnologias JavaScript, HTML, CSS e React, integrando com o firebase.
+### Este projeto foi desenvolvido com as tecnologias JavaScript, HTML, CSS e React, integrando com o firebase durante a Jornada FULL STACK, uma Webinar da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 ## 📝 Link
 - [Demonstração](https://tiktok-jornada-ebac.web.app)
