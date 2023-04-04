@@ -2,6 +2,11 @@
 
 ### Este projeto foi desenvolvido com as tecnologias JavaScript, HTML, CSS e React, integrando com o firebase durante a Jornada FULL STACK, uma Webinar da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
+<br>
+<p align="center">
+<img src="TikTok Clone - Google Chrome 2023-04-02 22-28-42.gif" width="80%" height="80%"/></p>
+<br>
+
 ## 📝 Link
 - [Demonstração](https://tiktok-jornada-ebac.web.app)
 
